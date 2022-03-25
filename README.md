@@ -86,7 +86,7 @@ npm install react-native-webview --save
 ```
 10. To see the output on screen. Change the app.js code with the code given bellow
 
-```
+```javascript
 
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text } from 'react-native';
