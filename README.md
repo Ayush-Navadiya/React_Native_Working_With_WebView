@@ -38,7 +38,8 @@ React Native Working With View Example
 
 ---
 ## Output
-![Output](https://github.com/Ayush-Navadiya/React_Native_Working_With_WebView/blob/master/Output/output.jpg)
+
+<img src="https://github.com/Ayush-Navadiya/React_Native_Working_With_WebView/blob/master/Output/output.jpg" width=250>
 
 
 
